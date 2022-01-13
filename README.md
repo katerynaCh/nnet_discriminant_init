@@ -18,6 +18,7 @@ For CNN:
 ```
 python train_cnn.py
 ```
+The data can be downloaded from [here]
 
 # Environment
 The code is built with Tensorflow 2. 
@@ -36,3 +37,4 @@ If you find our work useful, kindly cite as:
 }
 ```
 [Feedforward neural networks initialization based on discriminant learning]: <https://www.sciencedirect.com/science/article/pii/S0893608021004482>
+[here]: <https://tuni-my.sharepoint.com/:f:/g/personal/kateryna_chumachenko_tuni_fi/EuOS_M_6NspNqlXkn3WUJkwBaR7EnKVMHRskkQymDD-CUQ?e=RJ9e8Q>
