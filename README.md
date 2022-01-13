@@ -3,4 +3,4 @@ This repository provides the implementation for the paper "[Feedforward neural n
 
 
 
-[Feedforward neural networks initialization based on discriminant learning]: <https://arxiv.org/abs/1905.00794>
+[Feedforward neural networks initialization based on discriminant learning]: <https://www.sciencedirect.com/science/article/pii/S0893608021004482>
