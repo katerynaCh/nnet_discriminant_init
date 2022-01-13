@@ -241,7 +241,7 @@ for file in weight_files:
 	with open(save_dir_zerobias+str('_')+'acc.txt', 'a') as f:
 		f.write(str(acc))	
 		
-	with open(save_dir + 'result.txt', 'a') as f:
+	with open(save_dir_zerobias + 'result.txt', 'a') as f:
 		
 		f.write('Mean accuracy, zerobias: '+ str(np.mean(accuracies_zerobias)) + '\n')
 		f.write('Std accuracy, zerobias: '+ str(np.std(accuracies_zerobias)) + '\n')
