@@ -1,4 +1,4 @@
-# Neural Network initialization based on discriminant learning.
+# Neural Network initialization based on discriminant learning
 This repository provides the implementation for the paper "[Feedforward neural networks initialization based on discriminant learning]". The initialization scripts for MLPs and CNNs are provided along with the BatchNormalization layer described in the paper.
 
 # Running the code
@@ -24,6 +24,7 @@ The code is built with Tensorflow 2.
 
 # Citing the work
 If you find our work useful, kindly cite as:
+```
 @article{chumachenko2022feedforward,
   title={Feedforward neural networks initialization based on discriminant learning},
   author={Chumachenko, Kateryna and Iosifidis, Alexandros and Gabbouj, Moncef},
@@ -33,5 +34,5 @@ If you find our work useful, kindly cite as:
   year={2022},
   publisher={Elsevier}
 }
-
+```
 [Feedforward neural networks initialization based on discriminant learning]: <https://www.sciencedirect.com/science/article/pii/S0893608021004482>
